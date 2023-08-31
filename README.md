@@ -1,5 +1,5 @@
-# Team-Too
-CS452 Project Repo
+# An Alcohol Problem
+#### Developed by Team-Too
 ## Background
 The developers of this project are seniors at George Mason University in Fairfax, Virginia. This project is fulfilling the classes "Team Project" assignment for the class CS452 "Virtual Reality" taught by professor Craig Yu.
 ## Introduction
