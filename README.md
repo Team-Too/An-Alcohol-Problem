@@ -5,14 +5,20 @@ The developers of this project are seniors at George Mason University in Fairfax
 ## Introduction
 An Alcohol Problem takes you through a day in the life of an alcoholic. Alcohol abuse and driving under the influence are major problems in the United States. Thousands of people in the United States lose their lives in drunk driving accidents. This game’s goal will be to warn players about the dangers of alcohol abuse, the effects it has on those around us, and the dangers of drunk driving.
 
-## How To Run
-1.
-2.
-3.
+## How To Run(For Developers)
+1. Clone the repo into a location on your computer
+2. Open Unity Hub
+3. Select "Add"
+4. Select "Add Project From Disk"
+5. Navigate and select the location where you cloned the repo
+6. Click on "An-Alcohol-Problem" in Unity Hub(This will take a few seconds)
+7. Select the "File" drop-down in the top left
+8. With an Oculus connected to your computer, select Build and Run(This will take a few minutes)
 
 ## Requirements
-* A VR Headset with controllers(preferably Oculus Quest 2)
-* A VR ready computer
+* Around 10GB of free space on your computer
+* A VR Headset with controllers(Only Oculus Quest 2 is supported)
+* A VR-ready computer
 * Enough free space to move your arms freely
 ## Feature Timeline
 ### Sprint 0 (Research and Development)
