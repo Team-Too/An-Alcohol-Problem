@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class PlayerInput : MonoBehaviour
 {
@@ -32,7 +34,7 @@ public class PlayerInput : MonoBehaviour
         }
         else if (breaking)
         {
-            m_Acceleration = -0.5f;
+            m_Acceleration = -1f;
             wheelDampening = 10000f;
         }
         else

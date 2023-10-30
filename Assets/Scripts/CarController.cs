@@ -17,7 +17,7 @@ public class CarController : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
         foreach (WheelCollider wheel in throttleWheels)
         {
